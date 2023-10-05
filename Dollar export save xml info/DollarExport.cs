@@ -14,6 +14,9 @@ using Universal.Common.Collections;
 
 namespace Dollar_export_save_xml_info
 {
+
+    // I dont know how to get a xml file from that UKRAIAN website "http://finance.i.ua/"
+
     internal class XmlDownloader
     {
         public string URL { get; } = @"http://finance.i.ua/";
